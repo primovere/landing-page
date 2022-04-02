@@ -42,3 +42,8 @@ img {
   height: 300px;
   width: auto;
 }
+
+.hero-container {
+  display: flex;
+  justify-content: space-between;
+}
