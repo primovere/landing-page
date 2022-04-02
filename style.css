@@ -37,3 +37,7 @@ ul {
   margin: 0;
   gap: 16px;
 }
+
+img {
+  height: 300px;
+  width: auto;
