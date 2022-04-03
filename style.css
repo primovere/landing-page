@@ -58,3 +58,7 @@ button {
   border-radius: 7px;
   padding: 8px 29px;
 }
+
+body {
+  margin: 0;
+}
