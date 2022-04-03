@@ -9,11 +9,13 @@
   display: flex;
   flex-direction: column;
   align-items: flex-start;
+  width: 300px;
 }
 
 .hero-secondary-text {
   font-size: 18px;
   color: #E5E7EB;
+  width: 430px;
 }
 
 .header-logo {
