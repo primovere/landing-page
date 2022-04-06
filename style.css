@@ -68,3 +68,10 @@ button {
 body {
   margin: 0;
 }
+
+.info-header {
+ font-size: 36px;
+ font-weight: bolder;
+ color: #1f2937 
+}
+
