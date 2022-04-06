@@ -76,7 +76,7 @@ body {
 }
 
 .img-text-container {
-  width: 165px
+  display: flex;
 }
 
 .square {
