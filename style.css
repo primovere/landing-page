@@ -78,3 +78,10 @@ body {
 .img-text-container {
   width: 165px
 }
+
+.square {
+  height: 165px;
+  border-color: #3882F6;
+  border: 3px solid #3882F6;
+  box-sizing: border-box;
+}
