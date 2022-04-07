@@ -78,6 +78,7 @@ body {
 
 .img-text-container {
   display: flex;
+  justify-content: space-between;
 }
 
 .square {
