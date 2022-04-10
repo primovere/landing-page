@@ -122,3 +122,7 @@ body {
 .call {
   font-weight: bold; 
 }
+
+.product {
+  font-size: small;
+}
