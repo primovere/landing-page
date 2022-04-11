@@ -7,20 +7,20 @@
   font-size: 48px;
   font-weight: bolder;
   color: #F9FAF8;
-  height: 100px; 
+  height: 110px; /* To remove the space under the text in the element. */
 }
 
 .hero-left {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  width: 300px;
+  width: 520px;
+  height: 250px;
   justify-content: space-between;
 }
 .hero-secondary-text {
   font-size: 18px;
   color: #E5E7EB;
-  width: 430px;
 }
 
 .header-logo {
@@ -29,7 +29,7 @@
   font-weight: 600;
   display: flex;
   justify-content: space-between;
-  margin-bottom: 130px;
+  margin-bottom: 130px; /* It's same as the space between header logo and header main text. */
 }
 
 a {
@@ -47,7 +47,7 @@ ul {
 }
 
 img {
-  height: 217px;
+  height: 250px; /* It's same as hero-left. */
   width: auto;
 }
 
