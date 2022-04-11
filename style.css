@@ -121,8 +121,19 @@ body {
 
 .call {
   font-weight: bold; 
+  
 }
 
 .product {
   font-size: small;
+}
+
+.s4-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.blue-area {
+  display: flex;
+  background-color: #3882F6;
 }
