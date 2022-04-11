@@ -120,12 +120,13 @@ body {
 }
 
 .call {
-  font-weight: bold; 
-  
+  font-weight: bold;
+  color: #F9FAF8;
 }
 
 .product {
   font-size: small;
+  color: #E5E7EB;
 }
 
 .s4-text {
@@ -136,4 +137,8 @@ body {
 .blue-area {
   display: flex;
   background-color: #3882F6;
+}
+
+.section-4 button {
+  border: solid rgb(255, 255, 255);
 }
