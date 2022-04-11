@@ -164,3 +164,7 @@ body {
 button:hover {
   background-color: #0a4199;
 }
+
+* {
+  font-family: Roboto, Verdana, Tahoma, sans-serif;
+}
