@@ -1,5 +1,5 @@
 # Landing Page
-<p>The project (landing page) is an exercise of Flexbox, and the design is from The Odin Project.</p>
+<p>The project is an exercise of Flexbox, and the design is from The Odin Project.</p>
 The webpage includes 4 sections and a footer, which was done from top to bottom.
 <br></br>
 
