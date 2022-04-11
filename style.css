@@ -150,3 +150,9 @@ body {
 .section-4 {
   padding: 100px 240px;
 }
+
+.footer {
+  background-color: #1F2937;
+  text-align: center;
+  color: #E5E7EB;
+}
