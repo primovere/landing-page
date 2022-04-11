@@ -138,9 +138,8 @@ body {
   display: flex;
   background-color: #3882F6;
   justify-content: space-between;
-  padding: 50px 120px;
+  padding: 60px 100px;
   border-radius: 10px;
-  
 }
 
 .section-4 button {
@@ -148,7 +147,7 @@ body {
 }
 
 .section-4 {
-  padding: 100px 240px;
+  padding: 120px 240px;
 }
 
 .footer {
